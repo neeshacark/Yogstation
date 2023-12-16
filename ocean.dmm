@@ -296,97 +296,167 @@
 /obj/machinery/smartfridge/chemistry,
 /turf/closed/wall,
 /area/space)
-"gT" = (
-/obj/machinery/door/airlock/public/glass{
-	name = "Fitness"
-	},
-/turf/open/floor/plasteel,
-/area/space)
-"hR" = (
-/obj/machinery/door/airlock/command{
-	name = "Command Tool Storage";
-	req_access_txt = "19"
+"en" = (
+/obj/machinery/door/airlock/maintenance{
+	req_access_txt = "12"
 	},
 /turf/open/space/basic,
 /area/space)
-"kw" = (
+"fV" = (
+/obj/structure/closet/wardrobe/grey,
+/turf/open/floor/plasteel,
+/area/space)
+"hs" = (
 /obj/machinery/door/airlock{
 	name = "Unit 3"
 	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
-"kC" = (
-/obj/machinery/door/airlock/public/glass{
-	name = "Diner"
-	},
-/turf/open/floor/wood,
-/area/space)
-"ms" = (
-/obj/machinery/pool_filter,
-/turf/open/indestructible/sound/pool,
-/area/space)
-"mU" = (
-/obj/machinery/light_switch{
-	pixel_y = 27
-	},
-/turf/open/floor/plasteel/freezer,
-/area/space)
-"ol" = (
-/obj/structure/toilet{
-	dir = 1
-	},
-/turf/open/floor/plasteel/freezer,
-/area/space)
-"pl" = (
-/turf/open/floor/plasteel/freezer,
-/area/space)
-"uW" = (
-/obj/effect/turf_decal/pool/corner,
-/turf/open/floor/plasteel,
-/area/space)
-"vN" = (
+"it" = (
 /obj/item/kirbyplants/random,
 /turf/open/floor/plasteel,
 /area/space)
-"xk" = (
-/obj/structure/pool_ladder,
-/turf/open/indestructible/sound/pool,
+"jb" = (
+/obj/structure/closet/wardrobe/white,
+/turf/open/floor/plasteel,
 /area/space)
-"zv" = (
-/turf/open/floor/wood/tile,
+"kl" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Artist's Coven"
+	},
+/turf/open/floor/plasteel/vaporwave,
 /area/space)
-"AZ" = (
+"mc" = (
 /obj/machinery/door/airlock/public/glass{
 	name = "Dormitory"
 	},
 /turf/open/floor/plasteel,
 /area/space)
-"Eh" = (
-/turf/open/floor/plasteel/vaporwave,
-/area/space)
-"El" = (
-/obj/machinery/door/airlock/public/glass{
-	name = "Fitness"
-	},
-/turf/open/space/basic,
-/area/space)
-"Fk" = (
-/obj/machinery/door/airlock{
-	name = "Unisex Restrooms"
+"nv" = (
+/obj/structure/urinal{
+	pixel_y = 32
 	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
-"FZ" = (
+"oN" = (
+/obj/structure/closet/wardrobe/mixed,
+/turf/open/floor/plasteel,
+/area/space)
+"rH" = (
+/obj/structure/closet/wardrobe/green,
+/turf/open/floor/plasteel,
+/area/space)
+"sa" = (
+/obj/effect/turf_decal/pool,
+/turf/open/floor/plasteel,
+/area/space)
+"sn" = (
+/obj/structure/urinal{
+	dir = 4;
+	pixel_x = -32
+	},
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"sV" = (
+/obj/structure/pool_ladder,
+/turf/open/indestructible/sound/pool,
+/area/space)
+"th" = (
+/turf/open/floor/wood/tile,
+/area/space)
+"xe" = (
+/obj/machinery/door/airlock/command/glass{
+	name = "EVA Storage";
+	req_access_txt = "18"
+	},
+/turf/open/space/basic,
+/area/space)
+"yL" = (
+/turf/open/indestructible/sound/pool,
+/area/space)
+"yQ" = (
+/turf/open/floor/plasteel/vaporwave,
+/area/space)
+"yX" = (
+/obj/structure/toilet{
+	dir = 1
+	},
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"zo" = (
+/obj/structure/table,
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"zN" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Fitness"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"Ba" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Diner"
+	},
+/turf/open/floor/wood,
+/area/space)
+"Cz" = (
+/obj/machinery/door/airlock{
+	name = "Unisex Showers"
+	},
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"IK" = (
 /obj/machinery/door/airlock{
 	name = "Unit 2"
 	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
-"Gg" = (
-/obj/structure/table,
+"KA" = (
+/obj/machinery/door/airlock/command/glass{
+	name = "EVA Storage";
+	req_access_txt = "18"
+	},
+/turf/open/floor/plasteel,
+/area/space)
+"LY" = (
+/obj/machinery/light_switch{
+	pixel_y = 27
+	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
-"GU" = (
+"Mf" = (
+/obj/structure/tank_dispenser/oxygen,
+/turf/open/floor/plasteel,
+/area/space)
+"MF" = (
+/obj/effect/turf_decal/pool{
+	dir = 4
+	},
+/turf/open/space/basic,
+/area/space)
+"PQ" = (
+/obj/machinery/pool_filter,
+/turf/open/indestructible/sound/pool,
+/area/space)
+"QX" = (
+/obj/machinery/door/airlock{
+	name = "Unisex Restrooms"
+	},
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"RH" = (
+/obj/structure/table,
+/turf/open/floor/plasteel,
+/area/space)
+"RI" = (
+/obj/structure/closet/wardrobe/black,
+/obj/item/clothing/shoes/jackboots,
+/turf/open/floor/plasteel,
+/area/space)
+"VB" = (
+/turf/open/floor/plasteel/freezer,
+/area/space)
+"VT" = (
 /obj/structure/mirror{
 	pixel_x = 28
 	},
@@ -396,63 +466,14 @@
 	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
-"Ij" = (
-/obj/structure/urinal{
-	dir = 4;
-	pixel_x = -32
-	},
-/turf/open/floor/plasteel/freezer,
-/area/space)
-"IF" = (
-/obj/machinery/door/airlock/command/glass{
-	name = "EVA Storage";
-	req_access_txt = "18"
-	},
+"Xo" = (
+/obj/effect/turf_decal/pool/corner,
 /turf/open/floor/plasteel,
 /area/space)
-"Kk" = (
-/obj/structure/urinal{
-	pixel_y = 32
-	},
-/turf/open/floor/plasteel/freezer,
-/area/space)
-"Li" = (
-/obj/structure/tank_dispenser/oxygen,
-/turf/open/floor/plasteel,
-/area/space)
-"MD" = (
-/obj/structure/table,
-/turf/open/floor/plasteel,
-/area/space)
-"OW" = (
-/obj/effect/turf_decal/pool,
-/turf/open/floor/plasteel,
-/area/space)
-"Pw" = (
-/turf/open/indestructible/sound/pool,
-/area/space)
-"SW" = (
-/obj/effect/turf_decal/pool{
-	dir = 4
-	},
-/turf/open/space/basic,
-/area/space)
-"Ul" = (
-/obj/machinery/door/airlock{
-	name = "Unisex Showers"
-	},
-/turf/open/floor/plasteel/freezer,
-/area/space)
-"Ww" = (
-/obj/machinery/door/airlock/command/glass{
-	name = "EVA Storage";
-	req_access_txt = "18"
-	},
-/turf/open/space/basic,
-/area/space)
-"YE" = (
-/obj/machinery/door/airlock/maintenance{
-	req_access_txt = "12"
+"Zn" = (
+/obj/machinery/door/airlock/command{
+	name = "Command Tool Storage";
+	req_access_txt = "19"
 	},
 /turf/open/space/basic,
 /area/space)
@@ -26080,8 +26101,8 @@ at
 at
 at
 ao
-Gg
-Gg
+zo
+zo
 ao
 ao
 ao
@@ -26337,10 +26358,10 @@ at
 at
 at
 af
-pl
-pl
-kw
-ol
+VB
+VB
+hs
+yX
 ao
 at
 at
@@ -26594,8 +26615,8 @@ at
 at
 at
 af
-pl
-pl
+VB
+VB
 aR
 aR
 ao
@@ -26851,10 +26872,10 @@ at
 at
 at
 af
-pl
-pl
-FZ
-ol
+VB
+VB
+IK
+yX
 ao
 at
 at
@@ -27108,8 +27129,8 @@ at
 at
 at
 af
-pl
-pl
+VB
+VB
 aR
 aR
 ao
@@ -27365,10 +27386,10 @@ at
 at
 at
 ao
-mU
-pl
-Ij
-Ij
+LY
+VB
+sn
+sn
 ao
 ao
 ao
@@ -27622,13 +27643,13 @@ at
 at
 at
 ao
-Kk
-pl
-pl
-pl
+nv
+VB
+VB
+VB
 aR
-pl
-pl
+VB
+VB
 ao
 at
 at
@@ -27879,13 +27900,13 @@ ao
 af
 ao
 ao
-Kk
-pl
-pl
-pl
-Ul
-pl
-pl
+nv
+VB
+VB
+VB
+Cz
+VB
+VB
 ao
 at
 at
@@ -28120,29 +28141,29 @@ at
 at
 at
 ao
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-GU
-GU
-pl
-pl
+VT
+VT
+VB
+VB
 aR
-pl
-pl
+VB
+VB
 ao
 at
 at
@@ -28377,26 +28398,26 @@ at
 at
 at
 ao
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
-aR
-aR
+th
+th
+th
 aR
 aR
-Fk
+aR
+aR
+QX
 aR
 aR
 aR
@@ -28634,21 +28655,21 @@ at
 at
 at
 ao
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
 at
 at
@@ -28891,21 +28912,21 @@ at
 at
 at
 ao
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
-zv
-zv
-zv
+th
+th
+th
 aR
 at
 at
@@ -29149,19 +29170,19 @@ at
 at
 ao
 aR
-zv
+th
 aR
 aR
 aR
-zv
+th
 aR
 aR
 aR
-zv
+th
 aR
 aR
 aR
-zv
+th
 aR
 aR
 at
@@ -29405,21 +29426,21 @@ at
 at
 at
 ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
 aR
 aK
 aK
@@ -29656,34 +29677,34 @@ aK
 aK
 ao
 ao
-aW
-aW
-aW
-aW
+af
+af
+af
+af
 ao
 ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
 aa
 aK
-uW
-SW
-SW
-SW
-SW
+Xo
+MF
+MF
+MF
+MF
 aR
 at
 at
@@ -29911,36 +29932,36 @@ aB
 aK
 aK
 aK
-AZ
+mc
 aK
 aK
 aK
 aK
 aK
 aK
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
 az
 az
 az
 az
-at
-El
 aK
-OW
-Pw
-Pw
-Pw
-Pw
+zN
+aK
+sa
+yL
+yL
+yL
+yL
 aR
 at
 at
@@ -30168,36 +30189,36 @@ aB
 aK
 aK
 aK
-AZ
+mc
 aK
 aK
 aK
 aK
 aK
 aK
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
 az
 aL
 aL
 az
-at
-El
 aK
-OW
-xk
-Pw
-Pw
-Pw
+zN
+aK
+sa
+sV
+yL
+yL
+yL
 aR
 at
 at
@@ -30432,29 +30453,29 @@ aR
 aR
 aR
 ao
+RI
+fV
+rH
+oN
+jb
 ao
-ao
-ao
-ao
-ao
-ao
-Eh
-Eh
-Eh
+aa
+kl
+aa
 aR
-at
+aK
 az
 aL
 aL
 az
-at
+aK
 aa
 aK
-OW
-Pw
-Pw
-Pw
-Pw
+sa
+yL
+yL
+yL
+yL
 aR
 at
 at
@@ -30689,29 +30710,29 @@ aK
 aK
 aK
 ao
-at
-at
-at
-at
-at
 ao
-Eh
-Eh
-Eh
+ao
+ao
+ao
+ao
+ao
+yQ
+yQ
+yQ
 aR
-at
-az
-aL
-aL
-az
-at
-El
 aK
-OW
-ms
-Pw
-Pw
-Pw
+az
+aL
+aL
+az
+aK
+zN
+aK
+sa
+PQ
+yL
+yL
+yL
 aR
 at
 at
@@ -30945,30 +30966,30 @@ aB
 aB
 aB
 aK
-Ww
+ap
 at
 at
 at
 at
 at
 ao
-Eh
-Eh
-Eh
+yQ
+yQ
+yQ
 aR
-at
-az
-az
-az
-az
-at
-El
 aK
-OW
-Pw
-Pw
-Pw
-Pw
+az
+az
+az
+az
+aK
+zN
+aK
+sa
+yL
+yL
+yL
+yL
 aR
 at
 at
@@ -31202,30 +31223,30 @@ aB
 aB
 aB
 aK
-Ww
+xe
 at
 at
 at
 at
 at
 ao
-Eh
-Eh
-Eh
+yQ
+yQ
+yQ
 aR
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
 aa
 aK
-OW
-Pw
-Pw
-Pw
-Pw
+sa
+yL
+yL
+yL
+yL
 aR
 at
 at
@@ -31459,7 +31480,7 @@ aB
 aB
 aB
 aK
-ao
+ap
 at
 at
 at
@@ -31470,18 +31491,18 @@ ao
 ao
 ao
 ao
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
 aR
 aK
-OW
-Pw
-Pw
-Pw
+sa
+yL
+yL
+yL
 aR
 aR
 at
@@ -31715,7 +31736,7 @@ aK
 aB
 aB
 aB
-MD
+RH
 ao
 at
 at
@@ -31728,13 +31749,13 @@ at
 at
 ao
 aa
-AZ
-AZ
+mc
+mc
 aa
 aa
 aR
 aR
-gT
+zN
 aR
 aR
 aa
@@ -31968,18 +31989,18 @@ aK
 aK
 aK
 ap
-vN
+it
 aB
 aB
 aB
-MD
+RH
 ao
 at
 at
 at
 at
 at
-Ww
+xe
 at
 at
 at
@@ -32225,11 +32246,11 @@ aK
 aK
 aK
 aR
-Li
+Mf
 aB
 aB
 aB
-MD
+RH
 ao
 at
 at
@@ -32484,7 +32505,7 @@ aP
 aR
 aR
 ap
-IF
+KA
 ap
 aR
 ao
@@ -32496,7 +32517,7 @@ ao
 ao
 ap
 ap
-hR
+Zn
 ao
 aK
 aK
@@ -33512,7 +33533,7 @@ aH
 aR
 aR
 aa
-kC
+Ba
 aa
 aR
 aa
@@ -34280,7 +34301,7 @@ af
 aK
 aK
 aK
-kC
+Ba
 at
 at
 at
@@ -38346,7 +38367,7 @@ aR
 aR
 aR
 aR
-YE
+en
 aR
 aB
 aB
