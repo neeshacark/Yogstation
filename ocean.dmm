@@ -296,9 +296,23 @@
 /obj/machinery/smartfridge/chemistry,
 /turf/closed/wall,
 /area/space)
+"bH" = (
+/turf/open/floor/wood/broken/two,
+/area/space)
 "cm" = (
 /obj/structure/table,
 /turf/open/floor/plasteel,
+/area/space)
+"dO" = (
+/obj/machinery/door/airlock/public/glass{
+	name = "Diner"
+	},
+/obj/structure/barricade/wooden/crude,
+/turf/open/floor/wood,
+/area/space)
+"ei" = (
+/obj/structure/table/wood,
+/turf/open/floor/wood,
 /area/space)
 "fa" = (
 /obj/structure/toilet{
@@ -319,9 +333,16 @@
 "gK" = (
 /turf/open/indestructible/sound/pool,
 /area/space)
+"hr" = (
+/turf/open/floor/wood/broken/four,
+/area/space)
 "hZ" = (
 /obj/effect/spawner/structure/window/reinforced,
 /turf/open/space/basic,
+/area/space)
+"iy" = (
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/plating,
 /area/space)
 "iP" = (
 /obj/structure/closet/wardrobe/grey,
@@ -343,6 +364,10 @@
 	},
 /turf/open/floor/wood,
 /area/space)
+"me" = (
+/obj/structure/stairs,
+/turf/open/floor/plating,
+/area/space)
 "mz" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 1
@@ -351,6 +376,10 @@
 /obj/structure/closet/secure_closet/bar{
 	req_access_txt = "25"
 	},
+/turf/open/floor/plasteel,
+/area/space)
+"pa" = (
+/obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plasteel,
 /area/space)
 "pv" = (
@@ -364,6 +393,11 @@
 "pB" = (
 /obj/effect/turf_decal/pool/corner,
 /turf/open/floor/plasteel,
+/area/space)
+"qu" = (
+/obj/effect/decal/cleanable/glass,
+/obj/structure/barricade/wooden,
+/turf/open/floor/plating,
 /area/space)
 "qz" = (
 /turf/open/floor/engine{
@@ -408,12 +442,19 @@
 	name = "Holodeck Projector Floor"
 	},
 /area/holodeck/rec_center)
+"wg" = (
+/turf/open/openspace,
+/area/space)
 "wk" = (
 /obj/effect/turf_decal/tile/bar{
 	dir = 1
 	},
 /obj/effect/turf_decal/tile/bar,
 /turf/open/floor/plasteel,
+/area/space)
+"xi" = (
+/obj/structure/reagent_dispensers/fueltank,
+/turf/open/floor/plating,
 /area/space)
 "xE" = (
 /obj/structure/plasticflaps{
@@ -422,6 +463,10 @@
 /turf/open/floor/plasteel{
 	dir = 2
 	},
+/area/space)
+"ze" = (
+/obj/structure/table,
+/turf/open/floor/wood,
 /area/space)
 "zo" = (
 /obj/machinery/door/airlock/public/glass{
@@ -444,8 +489,15 @@
 	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
+"AS" = (
+/turf/open/floor/wood/broken/three,
+/area/space)
 "AT" = (
 /turf/open/floor/wood/tile,
+/area/space)
+"AZ" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plasteel,
 /area/space)
 "BP" = (
 /turf/open/floor/plasteel/vaporwave,
@@ -453,6 +505,10 @@
 "BV" = (
 /obj/item/kirbyplants/random,
 /turf/open/floor/plasteel,
+/area/space)
+"Ca" = (
+/obj/structure/table/wood,
+/turf/open/floor/wood/broken/six,
 /area/space)
 "Cu" = (
 /obj/machinery/door/window/southleft{
@@ -466,11 +522,21 @@
 	dir = 2
 	},
 /area/space)
+"DV" = (
+/turf/open/floor/wood/broken/seven,
+/area/space)
 "Hh" = (
 /obj/machinery/door/airlock/public/glass{
 	name = "Artist's Coven"
 	},
 /turf/open/floor/plasteel/vaporwave,
+/area/space)
+"Ir" = (
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/wood,
+/area/space)
+"II" = (
+/turf/open/floor/wood/broken/six,
 /area/space)
 "IS" = (
 /obj/structure/urinal{
@@ -479,11 +545,9 @@
 	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
-"Ky" = (
-/obj/machinery/door/airlock/maintenance{
-	req_access_txt = "12"
-	},
-/turf/open/space/basic,
+"KM" = (
+/obj/effect/decal/cleanable/dirt_siding,
+/turf/open/floor/plasteel,
 /area/space)
 "Lu" = (
 /obj/machinery/door/airlock/command{
@@ -502,9 +566,19 @@
 	},
 /turf/open/floor/plasteel/freezer,
 /area/space)
+"MY" = (
+/obj/effect/decal/cleanable/glass,
+/turf/open/floor/plasteel,
+/area/space)
 "QG" = (
 /obj/structure/pool_ladder,
 /turf/open/indestructible/sound/pool,
+/area/space)
+"Rd" = (
+/obj/machinery/light/broken{
+	dir = 4
+	},
+/turf/open/floor/wood,
 /area/space)
 "Rf" = (
 /obj/machinery/door/airlock/command/glass{
@@ -529,11 +603,18 @@
 /obj/structure/closet/wardrobe/mixed,
 /turf/open/floor/plasteel,
 /area/space)
+"Vi" = (
+/turf/open/floor/wood/broken/five,
+/area/space)
 "Vu" = (
 /obj/machinery/door/airlock{
 	name = "Unisex Restrooms"
 	},
 /turf/open/floor/plasteel/freezer,
+/area/space)
+"VA" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plasteel,
 /area/space)
 "Wc" = (
 /obj/machinery/door/airlock/public/glass{
@@ -547,9 +628,25 @@
 	},
 /turf/open/space/basic,
 /area/space)
+"WW" = (
+/obj/effect/decal/cleanable/dirt_siding{
+	dir = 6
+	},
+/turf/open/floor/plasteel,
+/area/space)
 "Xf" = (
 /obj/structure/closet/wardrobe/green,
 /turf/open/floor/plasteel,
+/area/space)
+"Xk" = (
+/obj/effect/decal/cleanable/dirt_siding/corner,
+/turf/open/floor/plasteel,
+/area/space)
+"YC" = (
+/obj/machinery/light/broken{
+	dir = 8
+	},
+/turf/open/floor/wood,
 /area/space)
 "YU" = (
 /obj/structure/closet/wardrobe/white,
@@ -27937,10 +28034,10 @@ aK
 aK
 aK
 aR
+wg
+wg
+wg
 aN
-aN
-aN
-aR
 aN
 aN
 aN
@@ -28194,10 +28291,10 @@ aK
 aK
 aK
 aR
+wg
+wg
+wg
 aN
-aN
-aN
-aR
 aN
 aN
 aN
@@ -28452,7 +28549,7 @@ aK
 aK
 aR
 aR
-aN
+aR
 aR
 aR
 aN
@@ -92436,19 +92533,19 @@ at
 at
 at
 at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
 at
 at
 at
@@ -92693,19 +92790,19 @@ at
 at
 at
 at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
 at
 at
 at
@@ -92950,19 +93047,19 @@ at
 at
 at
 at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
+aK
 at
 at
 at
@@ -93215,11 +93312,11 @@ ao
 aP
 aP
 aP
-ao
-ao
-ao
-ao
-ao
+aR
+aR
+aR
+aR
+aR
 at
 at
 at
@@ -93472,10 +93569,10 @@ ao
 aK
 aK
 aK
-ao
+aR
+iy
 aN
-aN
-aN
+me
 ao
 ao
 ao
@@ -93729,10 +93826,10 @@ ao
 aK
 aK
 aK
-ao
+aR
+xi
 aN
-aN
-aN
+me
 aR
 at
 ao
@@ -93986,7 +94083,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aR
 aO
 aR
@@ -94243,7 +94340,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aN
 aN
 aN
@@ -94500,7 +94597,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aN
 aN
 aN
@@ -94757,7 +94854,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aN
 aN
 aN
@@ -95014,7 +95111,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aN
 aN
 aN
@@ -95271,7 +95368,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aN
 aN
 aN
@@ -95528,7 +95625,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aN
 aN
 aN
@@ -96042,7 +96139,7 @@ ao
 aK
 aK
 aK
-ao
+aR
 aN
 aN
 aN
@@ -96299,10 +96396,10 @@ ao
 aK
 aK
 aK
-ao
-ao
 aR
-Ky
+aR
+aR
+aO
 aR
 at
 at
@@ -96558,9 +96655,9 @@ aK
 aK
 aB
 ao
-at
-at
-at
+aN
+aN
+aN
 at
 at
 at
@@ -96815,9 +96912,9 @@ aK
 aK
 aB
 ao
-at
-at
-at
+aN
+aN
+aN
 at
 at
 at
@@ -97074,7 +97171,7 @@ ao
 ao
 ao
 ao
-at
+aN
 at
 at
 at
@@ -97583,7 +97680,7 @@ aN
 aO
 aK
 aK
-aK
+AZ
 aK
 aK
 aK
@@ -97838,7 +97935,7 @@ aN
 aN
 aN
 ao
-aK
+VA
 aK
 aK
 aK
@@ -98613,7 +98710,7 @@ aN
 aN
 aN
 aN
-aK
+pa
 aK
 aK
 aK
@@ -98870,8 +98967,8 @@ aN
 aN
 aN
 aN
-aK
-aK
+pa
+pa
 aK
 aK
 aK
@@ -99130,13 +99227,13 @@ ao
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
-at
+aR
+aR
+aR
+aR
+aR
+aR
+aR
 at
 at
 at
@@ -99379,25 +99476,25 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
 aK
 aK
 aK
-aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+KM
+aR
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -99642,19 +99739,19 @@ aK
 aK
 aK
 aK
-aK
-aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+Xk
+WW
+aR
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -99893,25 +99990,25 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
 aK
 aK
-aK
-ao
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+KM
+aR
+aR
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -100149,25 +100246,25 @@ aN
 aN
 aN
 aN
-ao
-ao
+aR
+aR
 aH
 aH
 aH
-ao
-ao
-ao
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aR
+aR
+aR
+aR
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 ao
 at
@@ -100406,25 +100503,25 @@ aN
 aN
 aN
 aN
-ao
+aR
 aG
 aK
 aK
 aK
-aB
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aR
+ab
+YC
+aR
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -100663,25 +100760,25 @@ aN
 aN
 aN
 aN
-ao
+aR
 aw
 aK
 aK
 aK
-aB
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aa
+ab
+hr
+aR
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -100920,25 +101017,25 @@ aN
 aN
 aN
 aN
-ao
-ao
+aR
+aR
 aK
 aK
 aK
-ao
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+dO
+ab
+ab
+aR
+aR
+aR
+aR
+aN
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -101178,23 +101275,23 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+dO
+ab
+ab
+ei
+Vi
+bH
+aR
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 ao
 at
@@ -101435,23 +101532,23 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aa
+ab
+ab
+ei
+ab
+ab
+aR
+aN
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -101692,22 +101789,22 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
 ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+ab
+AS
+ei
+ab
+ab
+aR
+aN
+aN
+aN
+aN
+aN
 ao
 ao
 at
@@ -101949,22 +102046,22 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
 ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+ab
+ab
+ei
+ab
+ab
+aR
+aN
+aN
+aN
+aN
+aN
 ao
 at
 at
@@ -102206,21 +102303,21 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
-at
+aa
+ab
+ab
+ei
+AS
+ab
+aR
+aN
+aN
+aN
+aN
 ao
 ao
 at
@@ -102463,20 +102560,20 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
+qu
+Ir
+ab
+ei
+Ca
+DV
+aR
+aN
+aN
+aN
 ao
 ao
 at
@@ -102720,20 +102817,20 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
-aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
-at
+MY
+qu
+ab
+ab
+ab
+DV
+ab
+aR
+aN
+aN
+aN
 ao
 at
 at
@@ -102977,19 +103074,19 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
-at
-at
-at
+aR
+ab
+ab
+ab
+ab
+ab
+aR
+aN
+aN
 ao
 ao
 at
@@ -103234,18 +103331,18 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
-at
-at
+aR
+ab
+II
+ab
+ab
+II
+aR
+aN
 ao
 ao
 at
@@ -103491,16 +103588,16 @@ aN
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
-at
-at
+aR
+ab
+ze
+ab
+ab
+ab
 ao
 ao
 ao
@@ -103748,14 +103845,14 @@ ao
 aN
 aN
 aN
-ao
+aR
 aK
 aK
 aK
-ao
-at
-at
-at
+aR
+ab
+Rd
+ab
 ao
 ao
 ao
